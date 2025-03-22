@@ -94,7 +94,7 @@ def pixelshuffle_block(in_channels,
 
 class RepRLFN(nn.Module):
     """
-    Residual Local Feature Network (RLFN)
+    Reparameterized Residual Local Feature Network (RepRLFN)
     Model definition of RLFN in `Residual Local Feature Network for
     Efficient Super-Resolution`
     """
